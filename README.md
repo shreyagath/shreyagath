@@ -34,7 +34,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gathshreya&show_icons=true&locale=en&layout=compact" alt="gathshreya" /></p>
 
 
-<h4 align="left">Languages</h4>
+##Languages:
 English<br> German<br> Hindi<br> Marathi<br>
 
 
